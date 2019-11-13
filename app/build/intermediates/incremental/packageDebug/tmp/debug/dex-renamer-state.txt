@@ -1,0 +1,4 @@
+#Tue Nov 12 22:55:54 EAT 2019
+base.0=C\:\\Users\\asenmercy\\Downloads\\MyScanner2\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
